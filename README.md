@@ -4,7 +4,7 @@
 ## Description
 This code implement the game of life and 
 ## Code
-'''
+```
 let gridsize=20;
 let columns;
 let rows;
@@ -41,5 +41,5 @@ function NextState(r,c){
 }
 }
 
-'''
+```
 ## Result
