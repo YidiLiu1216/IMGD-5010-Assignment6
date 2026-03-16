@@ -4,7 +4,7 @@
 ## Description
 This code implement the game of life and 1. warp the boundaries. 2. Fill the color based on how many turns the cell keeps alive.
 ## Result
-![/img/result_gol.png]
+! [/img/result_gol.png]
 ## Code
 ```
 
