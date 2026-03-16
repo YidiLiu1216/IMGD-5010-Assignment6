@@ -2,7 +2,7 @@
 ## Link
 [Link to the Page](https://editor.p5js.org/YidiLiu1216/sketches/XyU1s74Mn)
 ## Description
-This code implement the game of life and 
+This code implement the game of life and 1. warp the boundaries. 2. Fill the color based on how many turns the cell keeps alive.
 ## Code
 ```
 
